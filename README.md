@@ -13,11 +13,16 @@ It provides several modules for different types of security assessments, includi
 ## Installation
 
 1. Clone this repository:  
-   ```bash
    git clone https://github.com/v01dHackTeam/v01dTooL.git
    cd v01dTooL
    pip install -r requirements.txt
    python3 v01dhack.py
+
+## Disclaimer
+
+This tool is intended strictly for learning, research, and authorized testing environments.
+The author and contributors are not responsible for any misuse, illegal activity, or damage caused by unauthorized use.
+By using this tool, you agree to operate within legal boundaries and accept full responsibility for your actions.
 
 Thank you for using my tool
    
