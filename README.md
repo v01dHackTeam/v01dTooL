@@ -11,12 +11,10 @@ It provides several modules for different types of security assessments, includi
 - **DDoS Attack Simulation:** Stress testing tool to understand traffic floods and server response (use in controlled environments only).  
 
 ## Installation
-
-1. Clone this repository:  
-   git clone https://github.com/v01dHackTeam/v01dTooL.git
-   cd v01dTooL
-   pip install -r requirements.txt
-   python3 v01dhack.py
+git clone https://github.com/v01dHackTeam/v01dTooL.git
+cd v01dTooL
+pip install -r requirements.txt
+python3 v01dhack.py
 
 ## Disclaimer
 
